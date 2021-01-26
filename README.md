@@ -1,6 +1,6 @@
 # WikiDataExo
 
-## Liste peinture de Monet
+### Liste peinture de Monet
 ````
 SELECT ?Claude_Monet ?Claude_MonetLabel WHERE {
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
